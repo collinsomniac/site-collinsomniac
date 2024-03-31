@@ -1,2 +1,2 @@
-# site-collinsomniac
-Model of the home directory for my site at "collinsomniac".
+# site-collinsomniac-basic
+Basic repo for my site at "collinsomniac".
